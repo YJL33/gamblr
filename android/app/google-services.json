@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "880895309294",
+    "project_id": "gamblr-3841e",
+    "storage_bucket": "gamblr-3841e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880895309294:android:c25b541ef74f0b110dcaff",
+        "android_client_info": {
+          "package_name": "com.gamblr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880895309294-sd63s4tgc0nl0ocgr3rbujmtj4mc50rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamblr",
+            "certificate_hash": "94a97425e84be4e7a86d4487cc9f88fdba4094f7"
+          }
+        },
+        {
+          "client_id": "880895309294-b3fhne9ee9kprou67m5e5rrqfuhntb12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuoo3QUOpQqqaVCXD8jXtBN3CmLL4P7r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880895309294-b3fhne9ee9kprou67m5e5rrqfuhntb12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

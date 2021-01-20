@@ -1,4 +1,4 @@
-package com.example.gamblr
+package com.gamblr
 
 import io.flutter.embedding.android.FlutterActivity
 
