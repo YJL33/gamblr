@@ -30,7 +30,9 @@ dependencies:
   cupertino_icons: ^1.0.0
   # Firebase
   firebase_analytics: ^5.0.11
-
+  google_sign_in:
+  firebase_auth:
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
